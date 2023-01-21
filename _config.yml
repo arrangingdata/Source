@@ -2,7 +2,7 @@ title: Arranging Data LLC
 author: Jay Quincy Allen
 email: jqa@arrangingdata.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Arranging Data LLC - Data Warehouse automation source code.
+  Arranging Data - Data Warehouse Automation source code.
 
 # social links
 twitter_username: JayQuincyAllen
@@ -24,7 +24,6 @@ rss: RSS
 # - username: jekyll2
 #   instance: example.com
 
-
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -36,6 +35,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
   _layouts/about.html
+  _layouts/default.html
 
 # Build settings
 theme: minima
