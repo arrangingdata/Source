@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Home
-permalink: /home/
+title: Readme
+permalink: /readme/
 ---
 
 # Arranging Data
