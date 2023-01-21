@@ -1,5 +1,10 @@
 ---
 layout: page
+title: Home
+permalink: /home/
+---
+---
+layout: page
 title: About
 permalink: /about/
 ---
