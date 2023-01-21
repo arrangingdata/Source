@@ -3,6 +3,12 @@ author: Jay Quincy Allen
 name: arrangingdata
 email: jqa@arrangingdata.com
 
+---
+layout: page
+title: Home
+permalink: /home/
+---
+
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 
