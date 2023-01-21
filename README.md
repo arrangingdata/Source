@@ -1,4 +1,4 @@
-# minima
+# Arranging Data
 
 *Arranging Data is an integration technique developed by .
 
