@@ -2,7 +2,7 @@ title: Arranging Data LLC
 author: Jay Quincy Allen
 email: jqa@arrangingdata.com
 description: > # this means to ignore newlines until "twitter_username:"
-  Arranging DataLLC - Data Warehouse automation source code.
+  Arranging Data LLC - Data Warehouse automation source code.
 
 # social links
 twitter_username: JayQuincyAllen
@@ -37,7 +37,6 @@ minima:
 header_pages:
 - home.html
 - about.html
-- readme.md
 
 # Build settings
 theme: minima
