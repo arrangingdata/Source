@@ -36,7 +36,6 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
   _layouts/about.html
-  _layouts/default.html
 
 # Build settings
 theme: minima
