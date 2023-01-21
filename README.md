@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
 # Arranging Data
 
 *Arranging Data is an integration technique developed by .
